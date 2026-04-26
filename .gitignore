@@ -1,0 +1,16 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data and model artifacts
+*.csv
+*.pkl
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
